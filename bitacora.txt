@@ -1,2 +1,4 @@
 Versión 1
 Inicio del proyecto
+Versión 2 
+Se agrefo información inicial 
